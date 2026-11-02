@@ -44,8 +44,8 @@ Portfólio pessoal desenvolvido com HTML e CSS.
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pires-ux&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pires-ux&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=pires-ux&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub">
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pires-ux&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas">
   <img src="https://streak-stats.demolab.com?user=pires-ux&theme=tokyonight&hide_border=true" alt="Sequência de contribuições">
 </div>
 
