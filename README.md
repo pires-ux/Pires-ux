@@ -1,11 +1,13 @@
 
 # Olá! Eu sou Pires 👋
 
-### Desenvolvedor Back-end em formação | C# e .NET
+🚀 **Senior Software Engineer | JavaScript & .NET Specialist**  
+🇧🇷 Brazil
 
-Sou estudante e desenvolvedor em formação, com foco em desenvolvimento Back-end utilizando C# e .NET.
+I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
+I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
 
-Atualmente, estou aprimorando meus conhecimentos por meio de projetos práticos e estudos.
+I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
 
 ## 🚀 Tecnologias
 
