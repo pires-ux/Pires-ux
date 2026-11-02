@@ -57,4 +57,4 @@ Aprofundar meus conhecimentos em C# e .NET, desenvolver projetos cada vez melhor
 
 - **GitHub:** [pires-ux](https://github.com/pires-ux)
 - **LinkedIn:** [Meu perfil](https://www.linkedin.com/in/adriano-santos-728b37383/)
-- **Portfólio:** [Ver repositório](https://github.com/pires-ux/Portfolio)
+- **Portfólio:** [Ver Portifolio](https://pires-ux.github.io/Portfolio/)
